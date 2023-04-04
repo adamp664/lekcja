@@ -45,4 +45,4 @@ switch ($argv[1]) {
 }
 
 $string_data = serialize($array);
-file_put_contents("klasa.txt", $string_data);
+file_put_contents("klasa.txt", $string_data); 
